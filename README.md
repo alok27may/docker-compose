@@ -1,5 +1,4 @@
 # Docker Compose
-Docker compose application for spring boot
 
 Deploying Multiple Spring Boot Microservices using Docker Compose.
 
